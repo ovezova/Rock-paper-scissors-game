@@ -113,6 +113,7 @@ restart.onclick=()=>{
 
 }
 }
+
 game();
 
 
